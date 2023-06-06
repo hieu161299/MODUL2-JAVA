@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckLeapYear/CheckLeapYear.iml" filepath="$PROJECT_DIR$/CheckLeapYear/CheckLeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConvertMoney/ConvertMoney.iml" filepath="$PROJECT_DIR$/ConvertMoney/ConvertMoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayOfMonth/DayOfMonth.iml" filepath="$PROJECT_DIR$/DayOfMonth/DayOfMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/INTRODUCE JAVA.iml" filepath="$PROJECT_DIR$/.idea/INTRODUCE JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearEquationResolver/LinearEquationResolver.iml" filepath="$PROJECT_DIR$/LinearEquationResolver/LinearEquationResolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator/Operator.iml" filepath="$PROJECT_DIR$/Operator/Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShowMessage/ShowMessage.iml" filepath="$PROJECT_DIR$/ShowMessage/ShowMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SystemTime/SystemTime.iml" filepath="$PROJECT_DIR$/SystemTime/SystemTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+    </modules>
+  </component>
+</project>
