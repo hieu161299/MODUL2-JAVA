@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/INTRODUCE JAVA.iml" filepath="$PROJECT_DIR$/.idea/INTRODUCE JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addArray.iml" filepath="$PROJECT_DIR$/addArray.iml" />
     </modules>
   </component>
 </project>

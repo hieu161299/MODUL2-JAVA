@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/INTRODUCE JAVA/BMI/BMI.iml" filepath="$PROJECT_DIR$/INTRODUCE JAVA/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRODUCE JAVA/CheckLeapYear/CheckLeapYear.iml" filepath="$PROJECT_DIR$/INTRODUCE JAVA/CheckLeapYear/CheckLeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRODUCE JAVA/ConvertMoney/ConvertMoney.iml" filepath="$PROJECT_DIR$/INTRODUCE JAVA/ConvertMoney/ConvertMoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRODUCE JAVA/DayOfMonth/DayOfMonth.iml" filepath="$PROJECT_DIR$/INTRODUCE JAVA/DayOfMonth/DayOfMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLoop/JavaLoop.iml" filepath="$PROJECT_DIR$/JavaLoop/JavaLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRODUCE JAVA/LinearEquationResolver/LinearEquationResolver.iml" filepath="$PROJECT_DIR$/INTRODUCE JAVA/LinearEquationResolver/LinearEquationResolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MODULE2 - JAVA.iml" filepath="$PROJECT_DIR$/.idea/MODULE2 - JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Array/Mang2chieu/Mang2chieu.iml" filepath="$PROJECT_DIR$/Java Array/Mang2chieu/Mang2chieu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRODUCE JAVA/Operator/Operator.iml" filepath="$PROJECT_DIR$/INTRODUCE JAVA/Operator/Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRODUCE JAVA/ShowMessage/ShowMessage.iml" filepath="$PROJECT_DIR$/INTRODUCE JAVA/ShowMessage/ShowMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRODUCE JAVA/SystemTime/SystemTime.iml" filepath="$PROJECT_DIR$/INTRODUCE JAVA/SystemTime/SystemTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRODUCE JAVA/Variables/Variables.iml" filepath="$PROJECT_DIR$/INTRODUCE JAVA/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract_and_interface/abstract_and_interface.iml" filepath="$PROJECT_DIR$/abstract_and_interface/abstract_and_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Array/addArray/addArray.iml" filepath="$PROJECT_DIR$/Java Array/addArray/addArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayList_linkedlist/arrayList_linkedlist.iml" filepath="$PROJECT_DIR$/arrayList_linkedlist/arrayList_linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayList_linkedlist/src/list_test/array_list_test.iml" filepath="$PROJECT_DIR$/arrayList_linkedlist/src/list_test/array_list_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitapngoai/baitapngoai.iml" filepath="$PROJECT_DIR$/baitapngoai/baitapngoai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clean_code/clean_code.iml" filepath="$PROJECT_DIR$/clean_code/clean_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Array/congHaiMang/congHaiMang.iml" filepath="$PROJECT_DIR$/Java Array/congHaiMang/congHaiMang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Array/convert-temperature/convert-temperature.iml" filepath="$PROJECT_DIR$/Java Array/convert-temperature/convert-temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Array/deleteElement/deleteElement.iml" filepath="$PROJECT_DIR$/Java Array/deleteElement/deleteElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Array/find-element-in-array/find-element-in-array.iml" filepath="$PROJECT_DIR$/Java Array/find-element-in-array/find-element-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Array/find-min-array/find-min-array.iml" filepath="$PROJECT_DIR$/Java Array/find-min-array/find-min-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Array/findMaxArray2/findMaxArray2.iml" filepath="$PROJECT_DIR$/Java Array/findMaxArray2/findMaxArray2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayList_linkedlist/src/linked_list_test/linked_list_test.iml" filepath="$PROJECT_DIR$/arrayList_linkedlist/src/linked_list_test/linked_list_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Array/maxInArray/maxInArray.iml" filepath="$PROJECT_DIR$/Java Array/maxInArray/maxInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Array/resever-array/resever-array.iml" filepath="$PROJECT_DIR$/Java Array/resever-array/resever-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_queue/stack_queue.iml" filepath="$PROJECT_DIR$/stack_queue/stack_queue.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4026fc7d-c20c-4ebb-9d37-dc105eff64ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../class,object_java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class,object_java/quadraticEquation/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class,object_java/rectangle/src/rectangle/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class,object_java/stopWatch/src/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLoop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/src/CheckPrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/src/DrawBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/src/DrawMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/src/GreatestCommonDivision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/src/InterestRate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/src/ShowPrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/src/ShowPrimeNumberLessThan100.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QvXNcNaoIfsSm5XRsvR4j3KfEy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/MODULE2 - JAVA/class,object_java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4026fc7d-c20c-4ebb-9d37-dc105eff64ab" name="Changes" comment="" />
+      <created>1686234990215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686234990215</updated>
+      <workItem from="1686234991118" duration="129000" />
+      <workItem from="1686235375970" duration="48000" />
+      <workItem from="1686235794899" duration="78000" />
+      <workItem from="1686236501555" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

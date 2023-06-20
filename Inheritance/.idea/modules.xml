@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kethua/kethua.iml" filepath="$PROJECT_DIR$/kethua/kethua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kế thừa.iml" filepath="$PROJECT_DIR$/.idea/kế thừa.iml" />
+    </modules>
+  </component>
+</project>
