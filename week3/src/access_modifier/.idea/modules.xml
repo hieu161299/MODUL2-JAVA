@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/binary_search.iml" filepath="$PROJECT_DIR$/binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access_modifier.iml" filepath="$PROJECT_DIR$/access_modifier.iml" />
     </modules>
   </component>
 </project>
