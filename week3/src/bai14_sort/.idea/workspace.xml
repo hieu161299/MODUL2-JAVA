@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55ee42bc-2cd0-4a63-8830-d4dd0665d3d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../baitapngoai/src/ngay_20_06_2023/bai1/Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapngoai/src/ngay_20_06_2023/bai1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapngoai/src/ngay_20_06_2023/bai2/KiemTra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapngoai/src/ngay_20_06_2023/bai2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapngoai/src/ngay_20_06_2023/bai3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapngoai/src/ngay_20_06_2023/bai3/findMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapngoai/src/ngay_20_06_2023/bai4/TestTriAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapngoai/src/ngay_20_06_2023/bai4/TriAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapngoai/src/ngay_20_06_2023/bai5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapngoai/src/ngay_20_06_2023/bai5/SquareNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/Java Array/Mang2chieu/Mang2chieu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/Java Array/addArray/addArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/Java Array/congHaiMang/congHaiMang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/Java Array/convert-temperature/convert-temperature.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/Java Array/deleteElement/deleteElement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/Java Array/find-element-in-array/find-element-in-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/Java Array/find-min-array/find-min-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/Java Array/findMaxArray2/findMaxArray2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/Java Array/maxInArray/maxInArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/Java Array/resever-array/resever-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/.idea/class,object_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/binary_search/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/demo/src/demo1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/demo/src/demo1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/demo/src/demo2/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/fan/src/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/quadraticEquation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/quadraticEquation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/quadraticEquation/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/rectangle/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/rectangle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/rectangle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/rectangle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/rectangle/src/rectangle/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/stopWatch/src/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/stopWatch/stopWatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/train_student/src/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/train_student/src/manage/ManageStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/train_student/src/management_interface/Management.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/class,object_java/train_student/src/student_class/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/week1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/.idea/kế thừa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/kethua.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/circle_example/class_circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/circle_example/class_circle/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/circle_example/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/demo_super/superExample/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/example_manageAnimal/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/example_manageAnimal/animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/example_manageAnimal/animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/example_manageAnimal/main_test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/example_manageAnimal/managament/Manage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/example_manageAnimal/test/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/geometric/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/geometric/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/geometric/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/geometric/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/geometric/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/point2d_point3d/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/point2d_point3d/point_2d/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/src/point2d_point3d/point_2d/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/abstract_and_interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/arrayList_linkedlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/src/linked_list_test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/src/linked_list_test/linked_list_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/src/list_test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/src/list_test/array_list_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/clean_code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/clean_code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/clean_code/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/clean_code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/src/clean_code/clean_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/src/bai11_stack_queue/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/src/bai11_stack_queue/bai11_stack_queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/src/bai11_stack_queue/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/src/bai12_java_collection_framework/bai12_java_collection_framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/src/bai12_java_collection_framework/src/test_collection/TestCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/src/bai12_java_collection_framework/src/test_collection/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/src/bai12_java_collection_framework/src/use_hashMap_LinkedListMap_TreeMap/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/src/bai13/.idea/bai13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/src/bai13/binary/binary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/src/bai13/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/.idea/INTRODUCE JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/.idea/INTRODUCE JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/BMI/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/BMI/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/BMI/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/BMI/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/BMI/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/BMI/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/BMI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/BMI/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/BMI/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/BMI/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/BMI/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/BMI/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/BMI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/BMI/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/BMI/BMI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/BMI/BMI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/BMI/src/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/BMI/src/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/CheckLeapYear/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/CheckLeapYear/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/CheckLeapYear/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/CheckLeapYear/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/CheckLeapYear/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/CheckLeapYear/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/CheckLeapYear/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/CheckLeapYear/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/CheckLeapYear/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/CheckLeapYear/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/CheckLeapYear/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/CheckLeapYear/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/CheckLeapYear/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/CheckLeapYear/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/CheckLeapYear/CheckLeapYear.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/CheckLeapYear/CheckLeapYear.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/CheckLeapYear/src/CheckLeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/CheckLeapYear/src/CheckLeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ConvertMoney/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ConvertMoney/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ConvertMoney/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ConvertMoney/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ConvertMoney/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ConvertMoney/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ConvertMoney/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ConvertMoney/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ConvertMoney/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ConvertMoney/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ConvertMoney/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ConvertMoney/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ConvertMoney/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ConvertMoney/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ConvertMoney/ConvertMoney.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ConvertMoney/ConvertMoney.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ConvertMoney/src/ConvertMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ConvertMoney/src/ConvertMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/DayOfMonth/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/DayOfMonth/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/DayOfMonth/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/DayOfMonth/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/DayOfMonth/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/DayOfMonth/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/DayOfMonth/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/DayOfMonth/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/DayOfMonth/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/DayOfMonth/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/DayOfMonth/DayOfMonth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/DayOfMonth/DayOfMonth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/DayOfMonth/src/DayOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/DayOfMonth/src/DayOfMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/LinearEquationResolver/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/LinearEquationResolver/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/LinearEquationResolver/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/LinearEquationResolver/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/LinearEquationResolver/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/LinearEquationResolver/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/LinearEquationResolver/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/LinearEquationResolver/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/LinearEquationResolver/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/LinearEquationResolver/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/LinearEquationResolver/LinearEquationResolver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/LinearEquationResolver/LinearEquationResolver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/LinearEquationResolver/src/LinearEquationResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/LinearEquationResolver/src/LinearEquationResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Operator/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Operator/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Operator/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Operator/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Operator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Operator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Operator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Operator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Operator/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Operator/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Operator/Operator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Operator/Operator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Operator/src/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Operator/src/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ShowMessage/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ShowMessage/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ShowMessage/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ShowMessage/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ShowMessage/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ShowMessage/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ShowMessage/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ShowMessage/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ShowMessage/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ShowMessage/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ShowMessage/ShowMessage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ShowMessage/ShowMessage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/ShowMessage/src/ShowMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/ShowMessage/src/ShowMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/SystemTime/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/SystemTime/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/SystemTime/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/SystemTime/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/SystemTime/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/SystemTime/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/SystemTime/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/SystemTime/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/SystemTime/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/SystemTime/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/SystemTime/SystemTime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/SystemTime/SystemTime.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/SystemTime/src/SystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/SystemTime/src/SystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Variables/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Variables/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Variables/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Variables/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Variables/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Variables/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Variables/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Variables/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Variables/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Variables/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Variables/Variables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Variables/Variables.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTRODUCE JAVA/Variables/src/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/INTRODUCE JAVA/Variables/src/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/kế thừa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/kethua.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/circle_example/class_circle/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/circle_example/class_circle/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/circle_example/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/demo_super/superExample/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/example_manageAnimal/animal/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/example_manageAnimal/animal/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/example_manageAnimal/animal/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/example_manageAnimal/main_test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/example_manageAnimal/managament/Manage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/example_manageAnimal/test/AnimalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/geometric/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/geometric/shape/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/geometric/shape/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/geometric/shape/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/geometric/shape/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/point2d_point3d/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/point2d_point3d/point_2d/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/kethua/src/point2d_point3d/point_2d/Point3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/animal_12_6_2023/animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/animal_12_6_2023/animal/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/baitap/animal/Animals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/baitap/animal/Birds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/baitap/animal/Cats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/baitap/animal/Dogs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/baitap/animal/ManageAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/baitap/main_animals/Main_Animals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/circle_example/class_circle/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/circle_example/class_circle/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/circle_example/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/demo_super/superExample/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/demo_super/superExample/Faculty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/demo_super/superExample/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/geometric/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/geometric/shape/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/geometric/shape/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/geometric/shape/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/geometric/shape/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/point2d_point3d/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/point2d_point3d/point_2d/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/kethua/point2d_point3d/point_2d/Point3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/src/CopyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/src/CopyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/src/MethodMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/src/MethodMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/Mang2chieu/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/Mang2chieu/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/addArray/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/addArray/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/addArray/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/addArray/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/addArray/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/addArray/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/addArray/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/addArray/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/addArray/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/addArray/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/addArray/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/addArray/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/addArray/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/addArray/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/addArray/addArray.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/addArray/addArray.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/addArray/src/AddArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/addArray/src/AddArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/congHaiMang/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/congHaiMang/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/congHaiMang/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/congHaiMang/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/congHaiMang/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/congHaiMang/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/congHaiMang/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/congHaiMang/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/congHaiMang/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/congHaiMang/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/congHaiMang/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/congHaiMang/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/congHaiMang/congHaiMang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/congHaiMang/congHaiMang.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/congHaiMang/src/ArrayAddArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/congHaiMang/src/ArrayAddArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/convert-temperature/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/convert-temperature/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/convert-temperature/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/convert-temperature/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/convert-temperature/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/convert-temperature/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/convert-temperature/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/convert-temperature/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/convert-temperature/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/convert-temperature/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/convert-temperature/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/convert-temperature/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/convert-temperature/convert-temperature.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/convert-temperature/convert-temperature.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/convert-temperature/src/ConvertTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/convert-temperature/src/ConvertTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/deleteElement/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/deleteElement/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/deleteElement/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/deleteElement/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/deleteElement/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/deleteElement/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/deleteElement/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/deleteElement/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/deleteElement/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/deleteElement/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/deleteElement/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/deleteElement/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/deleteElement/deleteElement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/deleteElement/deleteElement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/deleteElement/src/DeleteElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/deleteElement/src/DeleteElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-element-in-array/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-element-in-array/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-element-in-array/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-element-in-array/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-element-in-array/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-element-in-array/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-element-in-array/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-element-in-array/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-element-in-array/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-element-in-array/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-element-in-array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-element-in-array/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-element-in-array/find-element-in-array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-element-in-array/find-element-in-array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-element-in-array/src/FindElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-element-in-array/src/FindElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-min-array/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-min-array/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-min-array/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-min-array/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-min-array/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-min-array/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-min-array/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-min-array/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-min-array/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-min-array/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-min-array/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-min-array/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-min-array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-min-array/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-min-array/find-min-array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-min-array/find-min-array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/find-min-array/src/FindMinArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/find-min-array/src/FindMinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/findMaxArray2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/findMaxArray2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/findMaxArray2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/findMaxArray2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/findMaxArray2/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/findMaxArray2/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/findMaxArray2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/findMaxArray2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/findMaxArray2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/findMaxArray2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/findMaxArray2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/findMaxArray2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/findMaxArray2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/findMaxArray2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/findMaxArray2/findMixArray2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/findMaxArray2/findMixArray2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/findMaxArray2/src/FIndMaxArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/findMaxArray2/src/FIndMaxArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/maxInArray/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/maxInArray/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/maxInArray/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/maxInArray/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/maxInArray/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/maxInArray/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/maxInArray/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/maxInArray/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/maxInArray/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/maxInArray/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/maxInArray/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/maxInArray/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/maxInArray/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/maxInArray/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/maxInArray/maxInArray.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/maxInArray/maxInArray.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/maxInArray/src/FindMaxInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/maxInArray/src/FindMaxInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/resever-array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/resever-array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/src/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/src/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/src/ReveserArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/src/ReveserArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/resever-array/src/resever-array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/resever-array/src/resever-array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Array/aray_java/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/Java Array/aray_java/untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/JavaLoop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/JavaLoop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/src/CheckPrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/src/CheckPrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/src/DrawBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/src/DrawBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/src/DrawMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/src/DrawMaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/src/GreatestCommonDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/src/GreatestCommonDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/src/InterestRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/src/InterestRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/src/ShowPrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/src/ShowPrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLoop/loop_java/src/ShowPrimeNumberLessThan100.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/JavaLoop/loop_java/src/ShowPrimeNumberLessThan100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/abstract_and_interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/binary_search/binary_search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/quadraticEquation/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/quadraticEquation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/abstract_and_interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/abstract_and_interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/excersise_2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/excersise_2/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/excersise_2/ComparableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/excersise_2/ComparableCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_1/class_animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_1/class_animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_1/class_animal/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_1/class_animal/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_1/class_animal/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_1/class_animal/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_1/fruits/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_1/fruits/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_1/fruits/Fruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_1/fruits/Fruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_1/fruits/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_1/fruits/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_1/interface_edible/Edible.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_1/interface_edible/Edible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_1/test/Test_animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_1/test/Test_animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_1/test/Test_fruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_1/test/Test_fruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_3/comparator/Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_3/comparator/Comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_3/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_3/shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_3/shape/CircleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_3/shape/CircleComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_3/shape/CircleComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_3/shape/CircleComparatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/exercise_3/shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/exercise_3/shape/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/rectangle/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/animal/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/animal/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/interface_manageAnimal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/interface_manageAnimal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/interface_test/CatManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/interface_test/CatManage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/interface_test/Manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/interface_test/Manage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/main_menu/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/main_menu/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/main_test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/main_test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_and_interface/src/demo/interface_manageAnimal/test/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/abstract_and_interface/src/demo/interface_manageAnimal/test/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/fan/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/arrayList_linkedlist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/demo/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/src/linked_list_test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/quadraticEquation/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/src/linked_list_test/linked_list_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/fan/fan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/src/linked_list_test/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/src/linked_list_test/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/src/linked_list_test/src/TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/src/linked_list_test/src/TestMyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/src/list_test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/rectangle/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/src/list_test/array_list_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/quadraticEquation/quadraticEquation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/src/list_test/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/src/list_test/src/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/src/list_test/src/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/src/list_test/src/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList_linkedlist/src/method_of_arrayList/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/arrayList_linkedlist/src/method_of_arrayList/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapngoai/src/list_student/interface_list/ManageStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapngoai/src/list_student/interface_list/ManageStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapngoai/src/list_student/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapngoai/src/list_student/student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/.idea/class,object_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/demo/demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/demo/src/demo1/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/demo/src/demo1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/demo/src/demo2/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/fan/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/fan/fan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/fan/src/Fan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/demo/demo1/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/demo/demo2/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/luyentap/classCirle/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/luyentap/demoGetterAndSetter/main/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/luyentap/demoGetterAndSetter/student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/luyentap/luyentap2/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/luyentap/luyentap2/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/luyentap/luyentap2/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/luyentap/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/quadraticEquation/QuadraticEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/rectangle/rectangle/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/out/production/stopWatch/StopWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/quadraticEquation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/quadraticEquation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/quadraticEquation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/quadraticEquation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/quadraticEquation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/quadraticEquation/quadraticEquation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/quadraticEquation/src/QuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/rectangle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/rectangle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/rectangle/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/rectangle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/rectangle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/rectangle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/rectangle/rectangle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/rectangle/src/rectangle/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/stopWatch/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/stopWatch/src/StopWatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class,object_java/stopWatch/stopWatch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/stopWatch/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/Inheritance/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/Inheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/clean_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/rectangle/rectangle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/bai1/person/main/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/bai1/person/main/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/bai1/person/management/Manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/bai1/person/management/Manage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/bai1/person/management/WorkerManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/bai1/person/management/WorkerManage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/bai1/person/menu/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/bai1/person/menu/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/bai1/person/model/Cadres.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/bai1/person/model/Cadres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/bai1/person/model/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/bai1/person/model/Engineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/bai1/person/model/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/bai1/person/model/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/bai1/person/model/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/bai1/person/model/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/management/BookManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/management/BookManage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/management/MagazineManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/management/MagazineManage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/management/Management.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/management/Management.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/management/NewspaperManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/management/NewspaperManage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/menu/BookMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/menu/BookMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/menu/MagazineMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/menu/MagazineMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/menu/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/menu/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/menu/NewspaperMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/menu/NewspaperMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/model/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/model/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/model/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/model/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean_code/src/luyentap/baitap2/model/Newspaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/clean_code/src/luyentap/baitap2/model/Newspaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack_queue/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/Inheritance/kethua/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack_queue/src/bai2/Bai2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3/src/bai11_stack_queue/src/bai2/Bai2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack_queue/src/bai2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3/src/bai11_stack_queue/src/bai2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack_queue/src/bai3/Bai3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3/src/bai11_stack_queue/src/bai3/Bai3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack_queue/src/bai4/Bai4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3/src/bai11_stack_queue/src/bai4/Bai4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack_queue/src/mygeneric_stack/MyGenericStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3/src/bai11_stack_queue/src/mygeneric_stack/MyGenericStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack_queue/src/thuat_toan_bai1/Bai1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3/src/bai11_stack_queue/src/thuat_toan_bai1/Bai1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack_queue/src/thuat_toan_bai1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3/src/bai11_stack_queue/src/thuat_toan_bai1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack_queue/stack_queue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/class,object_java/train_student/train_student.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2RXZQuJGemarKz24qRQTSBm99yQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/MODULE2 - JAVA",
+    "onboarding.tips.debug.path": "G:/MODULE2 - JAVA/bai14_sort/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55ee42bc-2cd0-4a63-8830-d4dd0665d3d6" name="Changes" comment="" />
+      <created>1687398375959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687398375959</updated>
+      <workItem from="1687398376966" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

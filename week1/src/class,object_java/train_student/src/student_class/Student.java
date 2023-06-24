@@ -1,4 +1,4 @@
-package list_student.student;
+package student_class;
 
 import java.util.Scanner;
 
@@ -6,11 +6,16 @@ public class Student {
     private int id;
     private String name;
     private int age;
+    private static int count = 0  ;
+
     public Student() {
+        count++;
+        this.id =count;
     }
 
-    public Student(int id, String name, int age) {
-        this.id = id;
+    public Student(String name, int age) {
+        count++;
+        this.id = count;
         this.name = name;
         this.age = age;
     }
@@ -23,19 +28,31 @@ public class Student {
         this.id = id;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
     public void inputStudent(){
         Scanner scanner = new Scanner(System.in);
-        System.out.println("=====enter information=====");
-
-        System.out.println("enter id");
-        this.id = scanner.nextInt();
-        scanner.nextLine();
+        System.out.println("----- Student information -----");
 
         System.out.println("enter name");
         this.name = scanner.nextLine();
 
         System.out.println("enter age");
-        this.age =scanner.nextInt();
+        this.age = Integer.parseInt(scanner.nextLine());
+
     }
 
     @Override

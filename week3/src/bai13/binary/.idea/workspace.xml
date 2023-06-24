@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c69ac4a6-a3da-40a0-baf3-dce377a246b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../_11_java_collection_framework/_11_java_collection_framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_11_java_collection_framework/src/test_collection/TestCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_11_java_collection_framework/src/test_collection/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_11_java_collection_framework/src/use_hashMap_LinkedListMap_TreeMap/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baitapngoai/src/ngay_20_06_2023/bai1/Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baitapngoai/src/ngay_20_06_2023/bai1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baitapngoai/src/ngay_20_06_2023/bai2/KiemTra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baitapngoai/src/ngay_20_06_2023/bai2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baitapngoai/src/ngay_20_06_2023/bai3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baitapngoai/src/ngay_20_06_2023/bai3/findMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baitapngoai/src/ngay_20_06_2023/bai4/TestTriAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baitapngoai/src/ngay_20_06_2023/bai4/TriAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baitapngoai/src/ngay_20_06_2023/bai5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baitapngoai/src/ngay_20_06_2023/bai5/SquareNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../class,object_java/binary_search/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../class,object_java/train_student/src/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../class,object_java/train_student/src/manage/ManageStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../class,object_java/train_student/src/management_interface/Management.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../class,object_java/train_student/src/student_class/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapngoai/src/list_student/interface_list/ManageStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../baitapngoai/src/list_student/interface_list/ManageStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitapngoai/src/list_student/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../baitapngoai/src/list_student/student/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2RV4BEqa217jK9iwtSh2ZYJ6t9T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "onboarding.tips.debug.path": "G:/MODULE2 - JAVA/bai13/demo/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c69ac4a6-a3da-40a0-baf3-dce377a246b1" name="Changes" comment="" />
+      <created>1687321778310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687321778310</updated>
+      <workItem from="1687321779317" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

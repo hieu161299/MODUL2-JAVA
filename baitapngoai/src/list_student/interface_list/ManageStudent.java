@@ -5,11 +5,10 @@ import list_student.student.Student;
 import java.util.ArrayList;
 
 public class ManageStudent implements Manage<Student>{
-    ArrayList<Student> studentArrayList ;
-    public ManageStudent(){
-        studentArrayList = new ArrayList<>();
-    }
+    ArrayList<Student> studentArrayList = new ArrayList<>() ;
+
     @Override
+
     public void addStudent(Student student) {
         studentArrayList.add(student);
     }
