@@ -11,7 +11,6 @@ public class StartMenu {
     private MenuRegister menuRegister = new MenuRegister(userManage);
     private MenuLogin menuLogin = new MenuLogin(userManage);
 
-
     public void  showStartMenu() {
         int choice = -1;
         do {

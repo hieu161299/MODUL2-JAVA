@@ -1,16 +1,13 @@
 package menu;
 
-import management.UserManage;
 import model.StaticUser;
 import validate.CheckNumberInput;
-
-import java.security.PublicKey;
-import java.util.PrimitiveIterator;
 
 public class MenuProgram {
     private CheckNumberInput checkNumberInput = new CheckNumberInput();
     private StaticUser staticUser = new StaticUser();
     private MenuRoom menuRoom = new MenuRoom();
+    private MenuBill menuBill = new MenuBill(menuRoom.getRoomManage());
 
     public void getProgram(){
         int choice = -1;
@@ -26,6 +23,7 @@ public class MenuProgram {
                     menuRoom.getMenuRoom();
                     break;
                 case 3:
+                    menuBill.getMenuBill();
                     break;
 
             }

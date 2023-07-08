@@ -29,7 +29,7 @@ public class ValidateUser {
     }
 
 
-    public String checkInputAccount() {
+    public String checkInputAccount() { // userName
         String data = null;
         while (true) {
             data = scanner.nextLine();

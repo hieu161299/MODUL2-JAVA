@@ -14,6 +14,11 @@ public class MenuRoom {
     private ValidateRoom validateRoom = new ValidateRoom(roomManage);
     private Scanner input = new Scanner(System.in);
 
+    public RoomManage getRoomManage() {
+        return roomManage;
+    }
+
+
 
     public void getMenuRoom() { // menu room manage
         int choice = -1;
