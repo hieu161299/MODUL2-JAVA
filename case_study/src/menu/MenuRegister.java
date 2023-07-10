@@ -15,7 +15,7 @@ public class MenuRegister {
         this.userManage = userManage1;
     }
 
-    public void getMenuRegister(){ // add account
+    public void getMenuRegister() { // add account
         System.out.println("===== Đăng ký tài khoản =====");
 
         System.out.println("Tên đăng nhâp :");
@@ -41,11 +41,9 @@ public class MenuRegister {
 
         System.out.println("dăng ký thành công");
 
-        User user = new User(userName , pwd , phone , address , email , name , age);
+        User user = new User(userName, pwd, phone, address, email, name, age);
         userManage.add(user);
 
     }
-
-
 
 }

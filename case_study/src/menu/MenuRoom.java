@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class MenuRoom {
     private CheckNumberInput checkNumberInput = new CheckNumberInput();
     private RoomManage roomManage = new RoomManage();
-    private ValidateRoom validateRoom = new ValidateRoom(roomManage);
+    private ValidateRoom validateRoom = new ValidateRoom(this.roomManage);
     private Scanner input = new Scanner(System.in);
 
     public RoomManage getRoomManage() {
@@ -19,13 +19,12 @@ public class MenuRoom {
     }
 
 
-
     public void getMenuRoom() { // menu room manage
         int choice = -1;
         do {
             System.out.println("===== Menu Room Manage =====");
             System.out.println("1. Thêm phòng\n2. Sửa thông tin phòng\n3. Xóa phòng\n4. Xem danh sách phòng\n" +
-                    "5. Tìm phòng theo giá");
+                    "5. Tìm phòng còn trống theo giá\n0. Thoát");
             choice = checkNumberInput.checkInput();
 
             switch (choice) {
@@ -44,11 +43,15 @@ public class MenuRoom {
                 case 5:
                     findRoomByPrice();
                     break;
+                case 0:
+                    break;
+                default:
+                    System.out.println("Lựa chọn không hợp lệ");
             }
         } while (choice != 0);
     }
 
-    public Room inputRoomValue(){
+    public Room inputRoomValue() {
         System.out.println("Tên phòng");
         String name = validateRoom.checkInputName();
 
@@ -72,26 +75,27 @@ public class MenuRoom {
         Room room = inputRoomValue();
         roomManage.add(room);
     }
-    public void editRoom(){
+
+    public void editRoom() {
         System.out.println("==== Menu edit Room =====");
         System.out.println("Tên phòng muốn sửa");
 
         String name = validateRoom.inputNameEdit();
-        //String name = input.nextLine();
 
         int index = roomManage.findIndexByName(name);
         Room room = inputRoomValue();
 
-        roomManage.edit(index , room);
+        roomManage.edit(index, room);
     }
-    public void deleteRoom(){
-        while (true){
+
+    public void deleteRoom() {
+        while (true) {
             System.out.println("Nhập tên phòng muốn xóa");
             String name = input.nextLine();
             int index = roomManage.findIndexByName(name);
-            if (index == -1){
+            if (index == -1) {
                 System.out.println("Phòng không tồn tại");
-            }else {
+            } else {
                 roomManage.delete(index);
                 break;
             }
@@ -122,7 +126,7 @@ public class MenuRoom {
 
     public String printStatus(boolean status) {
         String data = null;
-        if (status == true) {
+        if (status) {
             data = "Chưa cho thuê";
         } else if (!status) {
             data = "Đã tho thuê";
@@ -137,14 +141,14 @@ public class MenuRoom {
             System.out.println("không có phòng tồn tại trong danh sách");
         } else {
             System.out.printf("%-15s%-15s%-20s%-20s%-20s\n",
-                    "Tên phòng", "Giá phòng", "Số phòng ngủ", "Số phòng tắm", "Trạng thái phòng");
+                    "Tên phòng", "Giá phòng", "Số phòng tắm", "Số phòng ngủ", "Trạng thái phòng");
             for (int i = 0; i < roomManage.getAll().size(); i++) {
                 Room room = roomManage.getAll().get(i);
 
                 String status = printStatus(room.isStatus());
 
                 System.out.printf("%-15s%-15s%-20s%-20s%-20s\n",
-                        room.getName(), room.getPrice(), room.getBedRoom(), room.getBathRoom(), status);
+                        room.getName(), room.getPrice(), room.getBathRoom(), room.getBedRoom(), status);
             }
         }
 
@@ -157,18 +161,19 @@ public class MenuRoom {
         String price = validateRoom.checkInputPrice();
         List<Room> rooms = roomManage.findAllByPrice(price);
 
-        if (rooms.size() == 0 ){
-            System.out.println("Hết phòng theo mức giá tìm kiếm");
-        }else {
+        if (rooms.size() == 0) {
+            System.out.println("Hết phòng còn trống theo mức giá tìm kiếm");
+        } else {
             System.out.println("===== Danh sách phòng chưa cho thuê theo giá bạn muốn tìm =====");
             System.out.printf("%-15s%-15s%-20s%-20s%-20s\n",
                     "Tên phòng", "Giá phòng", "Số phòng ngủ", "Số phòng tắm", "Trạng thái phòng");
-            for (Room room: rooms) {
+            for (Room room : rooms) {
                 String status = printStatus(room.isStatus());
                 System.out.printf("%-15s%-15s%-20s%-20s%-20s\n",
                         room.getName(), room.getPrice(), room.getBedRoom(), room.getBathRoom(), status);
             }
         }
-
     }
+
+
 }

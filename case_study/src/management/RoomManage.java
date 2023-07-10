@@ -2,6 +2,7 @@ package management;
 
 import fileIO.RoomFile;
 import management.iManagement.Management;
+import model.Bill;
 import model.Room;
 
 import java.util.ArrayList;
@@ -58,6 +59,11 @@ public class RoomManage implements Management<Room> {
             }
         }
         return rooms;
+    }
+    public void changeStatusRoom(Bill bill , boolean status){
+        int index = findIndexByName(bill.getRoomName());
+        roomList.get(index).setStatus(!status);
+        roomFile.writeRoomFile(roomList);
     }
 
 

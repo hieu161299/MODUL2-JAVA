@@ -31,7 +31,7 @@ public class UserManage implements Management<User> {
     }
 
     @Override
-    public void edit(int index , User user) {
+    public void edit(int index, User user) {
 
     }
 
@@ -39,7 +39,6 @@ public class UserManage implements Management<User> {
     public void delete(int index) {
 
     }
-
     @Override
     public List<User> getAll() {
         try {
@@ -49,9 +48,9 @@ public class UserManage implements Management<User> {
         }
     }
 
-    public int findIndex(String userName)  {
+    public int findIndex(String userName) {
         for (int i = 0; i < userList.size(); i++) {
-            if (userList.get(i).getUserName().equals(userName)){
+            if (userList.get(i).getUserName().equals(userName)) {
                 return i;
             }
         }
