@@ -20,6 +20,7 @@ public class ValidateBill {
     private static final String Regex_Room_Name = "^[1-9]0[1-9]$";
     private static final String Regex_Renter = "^[a-zA-Z\\s]*$";
     private static final String Regex_Day = "^[([0-2][1-9]|10|20)|30|31]+-[([0-2][1-9]|10|20)]+-2[0-9]{3}$";
+    private static final String Regex_Month = "^(0[1-9])|(1[0-2])$";
 
     public ValidateBill(BillManage billManage, RoomManage roomManage) {
         this.billManage = billManage;
@@ -109,41 +110,18 @@ public class ValidateBill {
         }
     }
 
-    public String checkDayStart(String roomName){
-        String dayCheck1 = null;
 
-        while (true){
-            dayCheck1 = checkInputDay();
-            String[] dayCheck2 = dayCheck1.split("-");
-
-            int size = billManage.getAll().size();
-            boolean check = false;
-            for (int i = 0; i < size ; i++) {
-                Bill bill = billManage.getAll().get(i);
-                String dayStart = bill.getDayStart();
-                String[] dayStart1 = dayStart.split("-");
-
-                String dayEnd = bill.getDayEnd();
-                String[] dayEnd1 = dayEnd.split("-");
-
-                if (bill.getRoomName().equalsIgnoreCase(roomName)){
-                    if (Integer.parseInt(dayCheck2[0]) >= Integer.parseInt(dayStart1[0]) &&
-                            Integer.parseInt(dayCheck2[0]) <= Integer.parseInt(dayEnd1[0]) &&
-                            Integer.parseInt(dayCheck2[1]) == Integer.parseInt(dayEnd1[1]) &&
-                            Integer.parseInt(dayCheck2[2]) == Integer.parseInt(dayEnd1[2]) ){
-                        check = true;
-                    }
-                }
-                if (check){
-                    System.out.println("Phòng đã được thuê trong khoảng thời gian " + dayStart + " đến " + dayEnd +
-                            " .Hãy thuê phòng vào thời gian khác");
-                }else {
-
-                    return dayCheck1;
-                }
+    public String checkMonth() {
+        String month = null;
+        while (true) {
+            month = input.nextLine();
+            if (validate(month, Regex_Month)) {
+                    return month;
+            } else {
+                System.out.println("Nhập tháng gồm 2 kí tự ví dụ : 05 , 11");
             }
-
         }
     }
+
 
 }
